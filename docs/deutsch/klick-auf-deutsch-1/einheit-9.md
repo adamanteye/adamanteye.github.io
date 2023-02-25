@@ -50,6 +50,12 @@ Die meisten Menschen denken, dass Krieg vor allem aus Kämpfen besteht, das stim
     4. Herr Meier ärgert sich über die Unhöflichkeit seines Sohnes.
     5. Ich muss mich beeilen.
 
+反身动词分为真正的反身动词和非真正的反身动词
+- 真正的反身动词：去掉反身代词则无法使用，或词义改变
+- 非真正的反身动词：宾语可以是任何人、事，当宾语是主语本身时，就用反身代词作宾语，构成反身动词
+
+**需根据词义记忆反身动词**
+
 ### Nebensatz
 
 **从句的基本特征**
@@ -81,3 +87,5 @@ Die meisten Menschen denken, dass Krieg vor allem aus Kämpfen besteht, das stim
     > Weißt du woher, dass er heute kommt? （你知道他今天来自哪里吗？）
     >
     > Sag mir, wann er heute kommt! 
+    6. 整个主从复合句的标点符号按主句的句子类型而定
+    7. 主从句各自根据语境确定时态

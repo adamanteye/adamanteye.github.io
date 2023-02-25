@@ -1,5 +1,6 @@
 site_name: Adamanteye Note
 repo_url: https://github.com/adamanteye/adamanteye.github.io
+repo_name: Adamenteye.github.io
 
 nav:
   - 简介: index.md
