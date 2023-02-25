@@ -8,6 +8,8 @@ nav:
   - 德语:
     - 新编大学德语一:
       - Einheit 9: deutsch/klick-auf-deutsch-1/einheit-9.md
+  - JAVA:
+    - 基础语法: java/basics.md
 
 theme:
   language: zh
@@ -17,10 +19,7 @@ theme:
     code: 'Fira Mono'
   features:
     - navigation.tabs
-    # - navigation.instant
-    # - navigation.footer
-    # - navigation.top
-    # - content.action.view
+    - navigation.footer
 
   palette: 
     # Palette toggle for light mode
