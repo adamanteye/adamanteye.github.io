@@ -51,6 +51,7 @@ Die meisten Menschen denken, dass Krieg vor allem aus Kämpfen besteht, das stim
     5. Ich muss mich beeilen.
 
 反身动词分为真正的反身动词和非真正的反身动词
+
 - 真正的反身动词：去掉反身代词则无法使用，或词义改变
 - 非真正的反身动词：宾语可以是任何人、事，当宾语是主语本身时，就用反身代词作宾语，构成反身动词
 
