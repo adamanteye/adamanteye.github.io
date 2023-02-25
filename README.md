@@ -1,1 +1,0 @@
-# adamanteye.github.io

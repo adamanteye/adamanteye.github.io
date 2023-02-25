@@ -9,3 +9,9 @@ Die Ausstellung "Crossing Parallels: German Design 1945-1990" im Kunstmuseum der
 ### Reflexivpronnomen und reflexive Verben
 
 作为宾语的人称代词在本句
+
+|   | A. | D. |
+|---|----|----|
+| ich | mich | mir |
+| du | dich | dir |
+| er | sich |
