@@ -6,7 +6,7 @@
 | bleiben   | bleibt       | geblieben   | 停留，保持                   |
 | bringen   | bringt       | gebracht    | 带来，送来                   |
 | denken    | denkt        | gedacht     | 考虑，认为                   |
-| dürfen    | darf         | gedurft     | 运许，许可                   |
+| dürfen    | darf         | gedurft     | 允许，许可                   |
 | empfehlen | empfiehlt    | empfohlen   | 介绍，推荐                   |
 | essen     | isst         | gegessen    | 吃，进餐                     |
 | fahren    | fährt        | gefahren    | 驾驶，搭乘                   |
