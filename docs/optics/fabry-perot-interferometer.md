@@ -26,10 +26,19 @@ I_T&=\frac{I_0}{1+F\sin^2\delta}\\
 I_R&=I_0-I_T=\frac{I_0}{1+\frac{1}{F\sin^2\delta}}\\  
 \end{aligned}  $$
 
-where $F=\frac{4R}{(1-R)^2}$, **coefficient of finesse**.
+where **coefficient of finesse** $F=\frac{4R}{(1-R)^2}$.
 
 If $R\ll1$, $I_T=I_0(1-2R(1-\cos\delta)), I_R=2I_0R(1-\cos\delta)$, which is for a double beam interference.
 
+### With Energy Loss
+
+In real application, surfaces can not be lossless. Therefore, the higher finesse is, the lower the transmission.
+
+Assume $\alpha^2R+\alpha^2T=1-A$, then:
+
+$$ \left(\frac{I_T}{I_0}\right)_{max}=\frac{\alpha^4(1-R)^2}{(1-\alpha^2R)^2}$$
+
+For given $R=0.99$, $A=0.04$, which means energy loss is $4\%$ each time, we can calculate that $(I_T/I_0)_{max}=3.7\%$, which is relatively low.
 
 ## Fabry-Perot Interferometer
 
@@ -58,8 +67,6 @@ $$\begin{aligned}
 \nu_m&=\frac{mc}{2nh}
 \end{aligned}$$
 
-
-
 So the output would be a group of equally spaced lines in frequence domain, with **free spectral range** defined as: $\Delta\nu=\nu_{m+1}-\nu_m=\frac{c}{2nh}$.
 
 $$\begin{aligned}
@@ -85,8 +92,8 @@ Rayleigh claims that $\delta\lambda\geq\lambda_{FWHM}$ must be granted, that's *
 
 **minimum reslovable wave length** at $\lambda$ is:
 
-$$\delta\lambda=\frac{\lambda}{m\mathscr F}$$
+$$\delta\lambda=\lambda_{FWHM}=\frac{\lambda}{m\mathscr F}$$
 
 **Resolving power** is defined as:
 
-$$ R\equiv\frac{\lambda}{\delta\lambda}= m\mathscr F$$
+$$R\equiv\frac{\lambda}{\delta\lambda}= m\mathscr F$$

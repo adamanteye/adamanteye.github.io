@@ -6,6 +6,7 @@ nav:
   - 简介: index.md
   - Optics:
     - Fabry-Perot Interferometer: optics/fabry-perot-interferometer.md
+    - Coherent Theory: optics/coherent-theory.md
   - 德语:
     - 新编大学德语一:
       - Einheit 9: deutsch/klick-auf-deutsch-1/einheit-9.md
