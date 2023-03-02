@@ -12,6 +12,10 @@ nav:
       - Einheit 9: deutsch/klick-auf-deutsch-1/einheit-9.md
       - 语法总结: deutsch/klick-auf-deutsch-1/grammatik.md
       - 不规则动词表: deutsch/klick-auf-deutsch-1/verben.md
+  # - 写作与沟通:
+  #   - 高效沟通: private/writing/communication.md
+  #   - 文件综述: private/writing/literature-review.md
+  #   - 利用图书馆: private/writing/libarian.md
   - JAVA:
     - 基础语法: java/basics.md
   - 人文社科:

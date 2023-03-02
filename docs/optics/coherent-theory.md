@@ -88,3 +88,7 @@ where $u=\frac{xd\Delta k}{2D}$.
 Note $\frac{kd}{D}x$ as $\Delta L$, we have: 
 
 $$\Delta L\Delta k\leq 2\pi$$
+
+The spectral width picture and wave-packet picture agree because limited duration in space (time) implies width in wavelength (frequency).
+
+Also, from $\Delta L$, we can calculate number of fringes.
