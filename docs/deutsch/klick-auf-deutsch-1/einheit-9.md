@@ -104,7 +104,7 @@
 
     ---
 
-    - Ich habe gehört, dass man in China oft von "Versailler Literatur" spricht. Kanst du mir sagen, was "Versailler Literatur" ist?
+    - Ich habe gehört, dass man in China oft von "Versailler Literatur" spricht. Kannst du mir sagen, was "Versailler Literatur" ist?
     - Ach, das heißt, einer sagt, dass er Kummer hat, aber in Wirklichkeit möchte er zeigen, dass er glücklich ist.
     - Zum beispiel, Wang Hongliang sagt, dass er am Mittag immer nervös ist.
     - Brigitte fragt ihn, ob ihm das Essen in der Mensa nicht schmeckt.
