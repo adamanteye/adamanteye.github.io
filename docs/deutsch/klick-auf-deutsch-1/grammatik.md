@@ -5,12 +5,35 @@
 - `,` 读作 **komma**
 - 小数点后的数字一位一位读
 
-z.B. 25,34 读作 fünfundzwanzig komma drei vier
+z.B.
+
+- 25,34 读作 fünfundzwanzig komma drei vier
 
 ## 时间的表达
 
-### 年份
+### 介词的用法
 
+- $\leq$ 一天，用 **an**
+- $>$ 一天，用 **in**
+
+!!! quote "例子"
+    - am Morgen, am Vormittag
+    - am Montag, am Dienstag, am Mittwoch
+    - am 10. März
+
+    ---
+
+    - in der woche
+    - in dem Monat
+    - im Januar, im Februar
+
+!!! warning "特例"
+    - **Uhrzeiten**: um 12 Uhr
+    - **Nacht**: in der Nacht
+
+    描述钟点时刻使用介词 **um**，此外，*Nacht* 不同于 *Morgen* 等，使用介词 **in**。
+
+### 年份
 
 **2000 年及以后**：按照对应数字读写
 
@@ -25,5 +48,5 @@ z.B. 25,34 读作 fünfundzwanzig komma drei vier
 !!! note "在某一年的表达"
     这两种方法等价
 
-    - im Jahr 2023
-    - 2023
+    - **使用介词**: im Jahr 2023
+    - **不使用介词**: 2023
