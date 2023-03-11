@@ -1,12 +1,11 @@
-## Relations between Interference and Diffraction
-
-> There is no significant physical distinction between interference and diffraction. It is somewhat customary to speak of interference when considering the superposition of only a few waves and diffraction when treating a large number of waves. Even so, one refers to multiple-beam interference in one context and diffraction from a grating in another.
+!!! quote "Interference or Diffraction?"
+    There is no significant physical distinction between interference and diffraction. It is somewhat customary to speak of interference when considering the superposition of only a few waves and diffraction when treating a large number of waves. Even so, one refers to multiple-beam interference in one context and diffraction from a grating in another.
 
 ## Huygens-Fresnel Principle
 
-### Hygens's Principle
+### Hygens Principle
 
-**Hygens stated that**: Each point on a wavefront can be envisaged as a source of secondary spherical wavelets. At any particular time, the shape of the wavefront is supposed to be the envelope of the secondary wavelets.
+**Hygens stated**, Each point on a wavefront can be envisaged as a source of secondary spherical wavelets. At any particular time, the shape of the wavefront is supposed to be the envelope of the secondary wavelets.
 
 However, this principle ignores most of each secondary wavelet, retaining only the envelope part. That is to say we don't konw how these different secondary wavelets interact with each other.
 
@@ -55,9 +54,11 @@ Roughly speaking, There are two types of diffraction.
 
 ## Fraunhoffer Diffraction
 
-### Far-Field Conidtion
+### Approximation
 
 $$r=r_0-\frac{xx^\prime+yy^\prime}{z}$$
+
+where $r_0$ is distance between center of slit and field point P.
 
 Normal incident: $\theta=0$ and $\theta^\prime=0$, thus $F(\theta_0,\theta)=1$.
 
