@@ -8,9 +8,11 @@ nav:
     - Fabry-Perot Interferometer: optics/fabry-perot-interferometer.md
     - Coherent Theory: optics/coherent-theory.md
     - Diffraction: optics/diffraction.md
-  # - R语言:
   - 基础物理实验:
     - 绪论: physics-lab/intro.md
+  - R语言:
+    - 基础语法: r/basics.md
+    - ggplot2 绘图包: r/ggplot2.md
   - 德语:
     - 新编大学德语一:
       - Einheit 9: deutsch/klick-auf-deutsch-1/einheit-9.md
