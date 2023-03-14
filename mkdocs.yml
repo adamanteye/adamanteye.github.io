@@ -24,6 +24,8 @@ nav:
     - 利用图书馆: writing/libarian.md
   - JAVA:
     - 基础语法: java/basics.md
+  - 计算机图形学:
+    - OpenGL 入门: graphics/opengl-tutorial.md
   - 人文社科:
     - 中国近现代史纲要: social-sci/modern-history.md
 
