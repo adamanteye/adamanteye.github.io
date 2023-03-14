@@ -1,6 +1,4 @@
-## 参考学习资料
-
-- [R 语言教程 李东风](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html)
+[^1]: [R 语言教程 李东风](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html)
 
 ## IO 交互
 
@@ -74,3 +72,5 @@ cat(1, "加", 1, "等于", 2, '\n')`
     R 语言中的 `if` 语句和 `while` 语句与 C 语言中的相同。
 
     `break`
+
+## 参考
