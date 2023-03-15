@@ -12,10 +12,11 @@ nav:
     - 绪论: physics-lab/intro.md
     - R 语言 ggplot2 绘图: physics-lab/r-ggplot2.md
   - 德语:
-    - 新编大学德语一:
-      - Einheit 9: deutsch/klick-auf-deutsch-1/einheit-9.md
-      - 语法总结: deutsch/klick-auf-deutsch-1/grammatik.md
-      - 不规则动词表: deutsch/klick-auf-deutsch-1/verben.md
+    # - 新编大学德语一:
+    #   - Einheit 9: deutsch/klick-auf-deutsch-1/einheit-9.md
+    - 语法总结: deutsch/grammatik.md
+    - 不规则动词表: deutsch/verben.md
+    - 宾语从句: deutsch/nebensatz.md
   - 写作与沟通:
     - 高效沟通: writing/communication.md
     - 文件综述: writing/literature-review.md
