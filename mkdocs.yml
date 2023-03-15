@@ -10,9 +10,7 @@ nav:
     - Diffraction: optics/diffraction.md
   - 基础物理实验:
     - 绪论: physics-lab/intro.md
-  - R语言:
-    - 基础语法: r/basics.md
-    - ggplot2 绘图包: r/ggplot2.md
+    - R 语言 ggplot2 绘图: physics-lab/r-ggplot2.md
   - 德语:
     - 新编大学德语一:
       - Einheit 9: deutsch/klick-auf-deutsch-1/einheit-9.md
