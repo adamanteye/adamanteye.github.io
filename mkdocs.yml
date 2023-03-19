@@ -20,6 +20,7 @@ nav:
     - 形容词的使用: deutsch/adj.md
     - 宾语从句: deutsch/nebensatz.md
     - 语法总结: deutsch/grammatik.md
+    - 介词的使用: deutsch/präp.md
   - 写作与沟通:
     - 高效沟通: writing/communication.md
     - 文件综述: writing/literature-review.md
@@ -63,8 +64,11 @@ theme:
   - search:
       separator: '[\s\u200b\-]'
   - git-revision-date-localized:
-      enable_creation_date: true
+      fallback_to_build_date: true
       locale: zh
+  - git-authors:
+      show_contribution: true
+      show_line_count: true
 
 extra_javascript:
   - javascripts/mathjax.js
