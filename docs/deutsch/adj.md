@@ -49,6 +49,10 @@
 | D.   | welchem | welcher | welchem | welchen |
 | A.   | welchen | welche  | welches | welche  |
 
+### 提问
+
+用 welche 提问
+
 ## 不定冠词型变格
 
 形容词前面有**不定冠词**，**物主代词**或 **kein**
@@ -68,6 +72,10 @@
     > Einen jungen Lehrer.
 
 [^1]: 新编大学德语 2 Einheit 1
+
+### 提问
+
+用 was für ein 提问（ein 要进行相应变格）
 
 ## 无修饰词型变格
 
@@ -107,5 +115,9 @@
 | A.   | en     | e    | es     | e    |
 
 > 表中除了*加粗的*两个，都和相应定冠词词尾一致。
+
+### 提问
+
+用 was für 提问
 
 ## 参考

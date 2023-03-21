@@ -56,6 +56,22 @@ int main(int argc, char *argv[])
 
 使用命令 `gcc -o test test.c -lGL -lGLU -lglut` 编译 [^1]
 
+## OpenGL 简介
+
+OpenGL 是应用程序与图形硬件的 API，OpenGL 的核心库提供了 100 多个用于直接访问图形硬件的底层函数。
+
+类似的图形 API 还有 DirectX, GDI.
+
+### OpenGL 开发库组成
+
+- 核心库（GL库）
+  - 保护最基本的函数，其前缀是 gl；这部分函数用于常规的、核心的图形处理
+  - 由 gl.dll 解释执行
+
+### OpenGL 渲染流水线
+
+
+
 ## 参考
 
 [^1]: [Linux 下安装 OpenGL](https://blog.csdn.net/csp123258/article/details/82626042)

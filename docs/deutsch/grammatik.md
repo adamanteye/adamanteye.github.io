@@ -1,14 +1,3 @@
-## 名词的变格
-
-### 定冠词
-
-|      | m    | f    | n    | Pl.  |
-| :--- | :--- | :--- | :--- | :--- |
-| N.   | der  | die  | das  | die  |
-| G.   | des  | der  | des  | der  |
-| D.   | dem  | der  | dem  | den  |
-| A.   | den  | die  | das  | die  |
-
 ## 计数
 
 ### 十进制小数的读法
