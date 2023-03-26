@@ -13,6 +13,7 @@ nav:
   - 基础物理实验:
     - 绪论: physics-lab/intro.md
     - R 语言 ggplot2 绘图: physics-lab/r-ggplot2.md
+    - matlab 数据处理: physics-lab/matlab.md
     - 完整实验报告 latex 模板: physics-lab/report-template.md
   - 德语:
     # - 新编大学德语一:
