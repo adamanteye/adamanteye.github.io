@@ -36,15 +36,12 @@
 
 ### 引导词
 
-1. weil 引导的原因状语从句可以前置，也可以后置
-
-   > Ich kaufe einen Bubble Tee, weil ich heute gute Laune habe.
-
-2. da 引导的原因从句一般前置，表示双方已知的原因
-
-   > Da es regnet, können wir heute nicht spazieren gehen.
-
-3. denn 也可以表示“因为”，但不占位，连接并列复合句，即连接两个主句。
+!!! note "weil 引导的原因状语从句"
+    1. weil 引导的原因状语从句可以前置，也可以后置
+    > Ich kaufe einen Bubble Tee, weil ich heute gute Laune habe.
+    1. da 引导的原因从句一般前置，表示双方已知的原因
+    > Da es regnet, können wir heute nicht spazieren gehen.
+    1. denn 也可以表示“因为”，但不占位，连接并列复合句，即连接两个主句。
 
 
 ### 提问
@@ -55,21 +52,18 @@
 
 ### 引导词
 
-1. 如果主句是陈述句，wenn 引导的条件从句可以前置，也可以后置；前置时，主句可以加上 dann 或 so
+!!! note "wenn 引导的条件从句"
 
-   > Wenn es morgen nicht regnet, (dann/so) machen wir einen Ausflug.
-   >
-   > Ween ich tanzen will, dann tanze ich ganz wie es mir gefällt.
-
-2. wenn 引导的从句前置时，可以省略 wenn，此时从句动词必须位于句首
-
-   > Regnet es morgen nicht, (dann/so) machen wir einen Ausflug.
-
-3. 如果主句是疑问句或陈述句，那么 wenn 引导的条件从句必须后置
-
-   > Was sollen wir machen, wenn es morgen regnet?
-   >
-   > Bleib zu Hause, wenn es morgen regnet.
+    1. 如果主句是陈述句，wenn 引导的条件从句可以前置，也可以后置；前置时，主句可以加上 dann 或 so
+    > Wenn es morgen nicht regnet, (dann/so) machen wir einen Ausflug.
+    >
+    > Ween ich tanzen will, dann tanze ich ganz wie es mir gefällt.
+    2. wenn 引导的从句前置时，可以省略 wenn，此时从句动词必须位于句首
+    > Regnet es morgen nicht, (dann/so) machen wir einen Ausflug.
+    1. 如果主句是疑问句或祈使句，那么 wenn 引导的条件从句必须后置
+    > Was sollen wir machen, wenn es morgen regnet?
+    >
+    > Bleib zu Hause, wenn es morgen regnet.
 
 ### 提问
 
