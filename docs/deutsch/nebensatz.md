@@ -2,12 +2,12 @@
 
 1. 由连词引出，与主句构成主从复合句
 2. 主语一般紧跟连词，变位动词位于句末，可分动词不再分开
-   > Er sagt, dass er mich zum Essen einlädt.
+    > Er sagt, dass er mich zum Essen einlädt.
 3. 从句有自己的主语和动词，即便与主句相同，也必须重复
 4. 从句与主句用逗号隔开
 5. 当从句位于主句前时，主句动词直接位于逗号后
 6. 特殊情况：情态动词完成时
-   > Es ist Schade, dass er mich gestern nicht hat besuchen können.
+    > Es ist Schade, dass er mich gestern nicht hat besuchen können.
 
 ## Objektsatz
 
