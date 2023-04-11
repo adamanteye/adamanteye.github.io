@@ -12,10 +12,10 @@ sudo apt install mesa-utils libglu1-mesa-dev freeglut3-dev mesa-common-dev
 
 ### Hello World 程序
 
-在 Ubuntu 上编写以下程序
+在 Ubuntu 上编写以下程序[^1]
 
 ```
-\*  test.c  *\
+\*  test.cpp  *\
 #include <GL/glut.h>
 
 void init(void)
@@ -54,7 +54,9 @@ int main(int argc, char *argv[])
 }
 ```
 
-使用命令 `gcc -o test test.c -lGL -lGLU -lglut` 编译 [^1]
+使用命令 `g++ -o test test.cpp -lGL -lGLU -lglut` 编译。
+
+运行命令 `./test` 以测试编译是否成功。
 
 ## OpenGL 简介
 
