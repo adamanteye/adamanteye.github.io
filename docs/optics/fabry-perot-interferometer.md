@@ -21,24 +21,26 @@ Before, we only consider the double beam because the higher order reflection is 
 However, when $r$ (the reflection coefficient) is large, beams reflected between these two surfaces can not be neglected.
 
 $$\begin{aligned}
-\delta&=\frac{4\pi nh\cos i}{\lambda_0}\\
-I_T&=\frac{I_0}{1+F\sin^2\delta}\\
-I_R&=I_0-I_T=\frac{I_0}{1+\frac{1}{F\sin^2\delta}}\\  
-\end{aligned}  $$
+\delta&=2\pi\frac{2nh\cos\theta_t}{\lambda}\\
+I_T&=\frac{I_0}{1+F\sin^2\delta/2}\\
+I_R&=I_0-I_T=\frac{I_0}{1+\frac{1}{F\sin^2\delta/2}}\\  
+\end{aligned}$$
 
 where **coefficient of finesse** $F=\frac{4R}{(1-R)^2}$.
 
-If $R\ll1$, $I_T=I_0(1-2R(1-\cos\delta)), I_R=2I_0R(1-\cos\delta)$, which is for a double beam interference.
+Also, $\delta$ depends on both transmission angle $\theta_t$ and wavelength $\lambda$.
+
+If $R\ll1$, $I_T=I_0(1-2R(1-\cos\delta)), I_R=2I_0R(1-\cos\delta)$, which is the case for a double beam interference.
 
 ### With Energy Loss
 
 In real application, surfaces can not be lossless. Therefore, the higher finesse is, the lower the transmission.
 
-Assume $\alpha^2R+\alpha^2T=1-A$, then:
+Assume $\alpha^2R+\alpha^2T+A=1$, which means energy loss is $A$ each time light hits it, then:
 
 $$ \left(\frac{I_T}{I_0}\right)_{max}=\frac{\alpha^4(1-R)^2}{(1-\alpha^2R)^2}$$
 
-For given $R=0.99$, $A=0.04$, which means energy loss is $4\%$ each time, we can calculate that $(I_T/I_0)_{max}=3.7\%$, which is relatively low.
+For given $R=0.99$, $A=0.04$, we can calculate that $(I_T/I_0)_{max}=3.7\%$, which is relatively low.
 
 ## Fabry-Perot Interferometer
 
@@ -47,11 +49,11 @@ The Fabry-Perot interferometer is a device that uses the multiple beam interfere
 ### Properties
 
 $$\begin{aligned}
-\varepsilon &= \frac{4}{\arcsin\sqrt F}\approx\frac{4}{\sqrt F}\\
-\mathscr F&=\frac{\pi\sqrt F}{2}\end{aligned}
+\varepsilon &= \frac{4}{\arcsin\sqrt F}\approx\frac{4}{\sqrt F}=\frac{2(1-R)}{\sqrt{R}}\\
+\mathscr F&=\frac{2\pi}{\varepsilon}=\frac{\pi\sqrt F}{2}\end{aligned}
 $$
 
-$\mathscr F$ is **Finesse**.
+$\mathscr F$ is **Finesse**, the ration between spacing of peaks and the width of individual peak.
 
 $\varepsilon$ is **Full Width at Half Maxima** in phase space.
 
@@ -67,11 +69,12 @@ $$\begin{aligned}
 \nu_m&=\frac{mc}{2nh}
 \end{aligned}$$
 
-So the output would be a group of equally spaced lines in frequence domain, with **free spectral range** defined as: $\Delta\nu=\nu_{m+1}-\nu_m=\frac{c}{2nh}$.
+So the output would be a group of equally spaced lines in frequence domain, with **free spectral range** $\nu_{FSR}$.
 
 $$\begin{aligned}
-\lambda_{FWHM}&=\frac{-\lambda}{m\mathscr F}\\
-\nu_{FWHM}&=\frac{c}{m\lambda\mathscr F}
+\lambda_{FWHM}&=\frac{\lambda}{m\mathscr F}\\
+\nu_{FWHM}&=\frac{c}{m\lambda\mathscr F}\\
+\nu_{FSR}&=\nu_{m+1}-\nu_m=\frac{c}{2nh}
 \end{aligned}$$
 
 ## Fabry-Perot Spectrometer
