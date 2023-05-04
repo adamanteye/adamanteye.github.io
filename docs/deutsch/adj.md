@@ -1,4 +1,4 @@
-## 形容词变格基本概念
+## 形容词变格
 
 形容词修饰名词时，需要变格，种类包括：
 
@@ -24,7 +24,7 @@
         
         > die neunziger Jahre
 
-## 定冠词型变格
+### 定冠词型变格
 
 形容词前面有**定冠词**，或**类同定冠词**时，需要按照下表变化词尾。
 
@@ -49,11 +49,11 @@
 | D.   | welchem | welcher | welchem | welchen |
 | A.   | welchen | welche  | welches | welche  |
 
-### 提问
+#### 提问
 
 用 welche 提问
 
-## 不定冠词型变格
+### 不定冠词型变格
 
 形容词前面有**不定冠词**，**物主代词**或 **kein**
 
@@ -73,11 +73,11 @@
 
 [^1]: 新编大学德语 2 Einheit 1
 
-### 提问
+#### 提问
 
 用 was für ein 提问（ein 要进行相应变格）
 
-## 无修饰词型变格
+### 无修饰词型变格
 
 形容词前面*没有***修饰词**或*有***相当于没有的词**
 
@@ -116,8 +116,69 @@
 
 > 表中除了*加粗的*两个，都和相应定冠词词尾一致。
 
-### 提问
+#### 提问
 
 用 was für 提问
+
+## 形容词，副词的变级
+
+形容词的比较级可以分为三个等级：
+
+- 原级(Positiv)
+- 比较级(Komparativ)
+- 最高级(Superlativ)
+
+### 构成
+
+|        | 原级   | 比较级   | 最高级         |
+| ------ | ------ | -------- | -------------- |
+| 规则   | klein  | kleiner  | am kleinsten   |
+|        | schön  | schöner  | am schönsten   |
+|        | wenig  | weniger  | am wenigsten   |
+|        | leicht | leichter | am leichtesten |
+| 变音   | lang   | länger   | am längsten    |
+|        | kurz   | kürzer   | am kürzesten   |
+| 去元音 | dunkel | dunkler  | am dunkelsten  |
+|        | teuer  | teurer   | am teuersten   |
+| 不规则 | gut    | besser   | am besten      |
+|        | viel   | mehr     | am meisten     |
+|        | nah    | näher    | am nächsten    |
+|        | hoch   | höher    | am höchsten    |
+|        | groß   | größer   | am größten     |
+|        | gern   | lieber   | am liebsten    |
+
+1. 比较级在形容词的原形后面加 er.
+2. 最高级在形容词的原形前面加 st，如果形容词以 t, d, s, ß, sch, z 结尾，最高级加 est.
+3. 以 el er 结尾的形容词在比较级中失去元音 e.
+4. 元音为 a, o, u 的单音节形容词升级时，其元音要变音：ä, ö, ü.
+
+!!! tip "变音例外"
+    a, o, u 的单音节形容词升级时，有些形容词元音不变：
+
+    > toll, voll, bunt, sanft, nass
+
+!!! tip "去元音例外"
+    bitter 变为 bitterer
+
+### 使用
+
+- 比较级，最高级做定语时，需要变格
+- 最高级做表语或状语时，使用 “am + 最高级词尾 + en” 的形式。
+
+#### 相同程度比较
+
+- so ... wie
+> Er ist so alt wie du.
+- nicht so ... wie
+> Er ist nicht so groß wie ich.
+
+#### 不同程度比较
+
+- ... als ...
+> Österreich ist kleiner als Deutschland.
+
+!!! tip "tip"
+    - 比较级前加上 immer, noch, viel，表示比较程度的加强。
+    - viel, wenig 的比较级 mehr, weniger 作定语时无变格词尾。
 
 ## 参考

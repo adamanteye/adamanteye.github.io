@@ -22,6 +22,12 @@
 > 
 > Langsam fährt der Zug aus dem Bahnhof.
 
+!!! tip "aus 与 von"
+    如果拿不准使用 aus 还是 von，考虑是否能用 in.
+
+    - 如果**在 A 地**可以用 in，那么**从 A 地来**就用 aus.
+    - 否则，用 von.
+
 ### von
 
 - 从某人那里来

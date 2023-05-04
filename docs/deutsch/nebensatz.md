@@ -9,7 +9,7 @@
 6. 特殊情况：情态动词完成时
     > Es ist Schade, dass er mich gestern nicht hat besuchen können.
 
-## Objektsatz
+## 宾语从句
 
 !!! note "Objektsatz mit "dass" und "ob" und Fragewörtern"
 
@@ -32,7 +32,7 @@
     6. 整个主从复合句的标点符号按主句的句子类型而定
     7. 主从句各自根据语境确定时态
 
-## Kausalsatz
+## 原因从句
 
 ### 引导词
 
@@ -48,7 +48,7 @@
 
 原因从句用 warum 提问。
 
-## Konditionalsatz
+## 条件从句
 
 ### 引导词
 
@@ -72,6 +72,25 @@
 > Unter welcher Bedingung kann man auf die Party gehen?
 >
 > Wenn man eine Einladung hat, kann man auf die Party gehen.
+
+## 目的从句
+
+- 表示目的可以用 um...zu 结构，也可以用 damit 引导的目的从句。
+- um...zu 结构或目的从句均可前置。
+- um...zu 结构或目的从句中不会出现 wollen, möchten, sollen 等表示意愿的词。
+
+!!! tip "辨析 um...zu 与 damit"
+    主从句主语一致，可以使用 um...zu，不一致，必须使用 damit.
+
+    > Ich fahre mit dem Taxi, um pünktlich kommen zu können.
+    >
+    > Die Mutter schickt ihren Sohn in dei Schule, damit er dort lernt.
+
+### 提问
+
+可以用 wozu 对目的从句或 um...zu 结构提问。
+
+> Wozu fährst du mit dem Taxi? (Um schnell nach Hause zu kommen.)
 
 ## 参考
 

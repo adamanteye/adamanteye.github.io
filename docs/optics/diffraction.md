@@ -183,4 +183,4 @@ $$\lambda_{1b}=2d\sin2\theta_b, 2\lambda_{2b}=2d\sin2\theta_b$$
 
 $$\alpha=\frac{\pi}{\lambda}asin(\theta-\theta_b), \beta=\frac{\pi}{\lambda}d(\sin\theta_b+\sin\theta)$$
 
-$$\lambda_{1b}=2d\sin\theta_b, 2\lambda_{2b}=2d\sin\theta$$
+$$\lambda_{1b}=2d\sin\theta_b, 2\lambda_{2b}=2d\sin\theta_b$$

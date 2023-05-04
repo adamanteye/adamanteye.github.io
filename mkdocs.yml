@@ -16,15 +16,15 @@ nav:
     - matlab 数据处理: physics-lab/matlab.md
     - 完整实验报告 latex 模板: physics-lab/report-template.md
   - 德语:
-    # - 新编大学德语一:
-    #   - Einheit 9: deutsch/klick-auf-deutsch-1/einheit-9.md
-    - 语篇阅读翻译: deutsch/lese-und-übersätzübung.md
-    - 不规则动词表: deutsch/verben.md
-    - 名词，冠词和代词变格: deutsch/nomen-artikel-pronomen.md
-    - 形容词的使用: deutsch/adj.md
+    - 名词，冠词和代词: deutsch/nomen-artikel-pronomen.md
+    - 形容词: deutsch/adj.md
     - 从句: deutsch/nebensatz.md
-    - 语法总结: deutsch/grammatik.md
     - 地点介词: deutsch/präp.md
+    - 时态: deutsch/tempus.md
+    - 数词: deutsch/numerale.md
+    - 动词: deutsch/verben.md
+    - 语篇阅读翻译: deutsch/lese-und-übersätzübung.md
+
   - 写作与沟通:
     - 高效沟通: writing/communication.md
     - 文件综述: writing/literature-review.md
@@ -35,6 +35,8 @@ nav:
     - OpenGL 入门: graphics/opengl-tutorial.md
   - 人文社科:
     - 中国近现代史纲要: social-sci/modern-history.md
+  - ROS:
+    - 小车导航: ros/navigation.md
 
 theme:
   language: zh
