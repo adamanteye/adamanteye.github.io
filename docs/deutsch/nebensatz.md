@@ -2,12 +2,12 @@
 
 1. 由连词引出，与主句构成主从复合句
 2. 主语一般紧跟连词，变位动词位于句末，可分动词不再分开
-    > Er sagt, dass er mich zum Essen einlädt.
+> Er sagt, dass er mich zum Essen einlädt.
 3. 从句有自己的主语和动词，即便与主句相同，也必须重复
 4. 从句与主句用逗号隔开
 5. 当从句位于主句前时，主句动词直接位于逗号后
 6. 特殊情况：情态动词完成时
-    > Es ist Schade, dass er mich gestern nicht hat besuchen können.
+> Es ist Schade, dass er mich gestern nicht hat besuchen können.
 
 ## 宾语从句
 
@@ -91,6 +91,32 @@
 可以用 wozu 对目的从句或 um...zu 结构提问。
 
 > Wozu fährst du mit dem Taxi? (Um schnell nach Hause zu kommen.)
+
+## 时间从句
+
+### 引导词
+
+wenn, als, nachdem, bis 可以引导时间从句(Temporalsatz).
+
+选择 wenn 或 als 时，按照如下规则：
+
+| 事件发生频率 | 过去 | 现在 | 将来 |
+| ------------ | ---- | ---- | ---- |
+| 一次         | als  | wenn | wenn |
+| 多次         | wenn | wenn | wenn |
+
+nachdem 引导的时间从句中， 从句行为先于主句发生。
+
+| Hauptsatz | Nebensatz  |
+| --------- | ---------- |
+| 现在时    | 现在完成时 |
+| 过去时    | 过去完成时 |
+
+bis 引导的时间从句表示主句动作延续到从句动作发生为止，使用 bis wann 提问。
+
+> Ich warte, bis du kommst.
+>
+> Wir warten, bis er die Huasufgaben gemacht hat.
 
 ## 参考
 
