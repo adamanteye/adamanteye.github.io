@@ -4,6 +4,16 @@
 
 [^1]: **现代德语实用语法** *王兆渠* 同济大学出版社
 
+### Sie 的命令式
+
+人称代词 Sie 不得省略，动词为原形。
+
+!!! warning "注意"
+    有多个动词时，对应的 Sie 均不能省略。
+
+> Rauchen Sie und Trinken Sie nicht!
+
+
 ### du 的命令式
 
 - 人称代词 du 必须省略。
@@ -161,62 +171,92 @@
 
 ## 强变化动词及不规则变化动词表
 
-| 不定式     | 现在时直陈式 | 过去时直陈式 | 第二分词    | 中文释义                     |
-| ---------- | :----------- | ------------ | ----------- | ---------------------------- |
-| beginnen   | beginnt      | begann       | begonnen    | 开始，着手                   |
-| biegen     | biegt        | bog          | gebogen     | 使弯曲，拐弯                 |
-| bieten     | bietet       | bot          | geboten     | 提供，给予                   |
-| bleiben    | bleibt       | blieb        | geblieben   | 停留，保持                   |
-| bringen    | bringt       | brachte      | gebracht    | 带来，送来                   |
-| denken     | denkt        | dachte       | gedacht     | 考虑，认为                   |
-| dürfen     | darf         | durfte       | gedurft     | 允许，许可                   |
-| empfehlen  | empfiehlt    | empfahl      | empfohlen   | 介绍，推荐                   |
-| essen      | isst         | aß           | gegessen    | 吃，进餐                     |
-| fahren     | fährt        | fuhr         | gefahren    | 驾驶，搭乘                   |
-| fallen     | fällt        | fiel         | gefallen    | 跌落，陷落，下降             |
-| fangen     | fängt        | fing         | gefangen    | 捕捉，接住                   |
-| finden     | findet       | fand         | gefunden    | 找到，发现，认为             |
-| fliegen    | fliegt       | flog         | geflogen    | 飞行，乘飞机                 |
-| geben      | gibt         | gab          | gegeben     | 给，给予，提供，举办         |
-| genießen   | genießt      | genoss       | genossen    | 享受，享有                   |
-| haben      | hat          | hatte        | gehabt      | 有，拥有，具备               |
-| halten     | hält         | hielt        | gehalten    | 抓住，保持，坚守             |
-| hängen[^3] | hängt        | hing         | gehangen    | 悬挂，附着，悬吊             |
-| heißen     | heißt        | hieß         | geheißen    | 名叫，意味着                 |
-| helfen     | hilft        | half         | geholfen    | 帮助，生效，有用             |
-| kennen     | kennt        | kannte       | gekannt     | 认识，熟悉，辩认出           |
-| kommen     | kommt        | kam          | gekommen    | 到来，出席，临近             |
-| können     | kann         | konnte       | gekonnt     | 能够，可能，也许             |
-| laden      | ladet/lädt   | lud          | geladen     | 装载，装填                   |
-| laufen     | läuft        | lief         | gelaufen    | 奔跑，运转                   |
-| lesen      | liest        | las          | gelesen     | 阅读，朗读                   |
-| liegen     | liegt        | lag          | gelegen     | 躺着，位于                   |
-| mögen      | mag          | mochte       | gemocht     | 喜爱，想要得到               |
-| müssen     | muss         | musste       | gemusst     | 必须，应该                   |
-| nehmen     | nimmt        | nahm         | genommen    | 拿起，选用，收下             |
-| riechen    | riecht       | roch         | gerochen    | 闻，嗅到                     |
-| rufen      | ruft         | rief         | gerufen     | 叫，呼喊，招呼               |
-| schlafen   | schläft      | schlief      | geschlafen  | 睡觉                         |
-| schlagen   | schlägt      | schlug       | geschlagen  | 打，拍，砍，击溃             |
-| schließen  | schließt     | schloss      | geschlossen | 闭合，观赏，结束，停止开放   |
-| schreiben  | schreibt     | schrieb      | geschrieben | 写字，书写，写作             |
-| sehen      | sieht        | sah          | gesehen     | 看见，亲眼见到，看出，认识到 |
-| sein       | ist          | war          | gewesen     | 是，存在，处于               |
-| singen     | singt        | sang         | gesungen    | 唱歌，演唱                   |
-| sitzen     | sitzt        | saß          | gesessen    | 就座，坐落                   |
-| sollen     | soll         | sollte       | gesollt     | 应该，可以                   |
-| sprechen   | spricht      | sprach       | gesprochen  | 讲话，讨论，谈话             |
-| stehen     | steht        | stand        | gestanden   | 站，直立，处于               |
-| streiten   | streitet     | stritt       | gestritten  | 争论，辩论，斗争             |
-| tragen     | trägt        | trug         | getragen    | 担负，挑起，忍受             |
-| treffen    | trifft       | trat         | getroffen   | 打中，碰到，打击             |
-| treiben    | treibt       | trieb        | getrieben   | 从事，做，驱使，引起         |
-| trinken    | trinkt       | trank        | getrunken   | 喝，饮酒                     |
-| tun        | tut          | tat          | getan       | 做，工作，着手               |
-| vergessen  | vergisst     | vergaß       | vergessen   | 忘记，遗忘                   |
-| waschen    | wäscht       | wusch        | gewaschen   | 洗涤                         |
-| wissen     | weiß         | wusste       | gewusst     | 知道，了解，明白             |
-| wollen     | will         | wollte       | gewollt     | 想，愿意，需要               |
-| ziehen     | zieht        | zog          | gezogen     | 拉，拖，转移，渗入           |
+| 不定式       | 现在时直陈式 | 过去时直陈式 | 第二分词     | 中文释义                     |
+| ------------ | :----------- | ------------ | ------------ | ---------------------------- |
+| befehlen     | befiehlt     | befahl       | befohlen     | 命令，指挥                   |
+| beginnen     | beginnt      | begann       | begonnen     | 开始，着手                   |
+| biegen       | biegt        | bog          | gebogen      | 弯曲，弯腰                   |
+| bieten       | bietet       | bot          | geboten      | 提供，给予                   |
+| bitten       | bittet       | bat          | gebeten      | 请求，恳求                   |
+| bleiben      | bleibt       | blieb        | geblieben    | 停留，保持                   |
+| brechen      | bricht       | brach        | gebrochen    | 打破，折断                   |
+| brennen      | brennt       | brannte      | gebrannt     | 燃烧，烧着                   |
+| bringen      | bringt       | brachte      | gebracht     | 带来，送来                   |
+| denken       | denkt        | dachte       | gedacht      | 考虑，认为                   |
+| dürfen       | darf         | durfte       | gedurft      | 允许，许可                   |
+| empfangen    | empfängt     | empfing      | empfangen    | 接待，接收                   |
+| empfehlen    | empfiehlt    | empfahl      | empfohlen    | 介绍，推荐                   |
+| entlassen    | entlässt     | entließ      | entlassen    | 解雇，免职                   |
+| ergreifen    | ergreift     | ergriff      | ergriffen    | 抓住，握住                   |
+| essen        | isst         | aß           | gegessen     | 吃，进餐                     |
+| fahren       | fährt        | fuhr         | gefahren     | 驾驶，搭乘                   |
+| fallen       | fällt        | fiel         | gefallen     | 跌落，陷落，下降             |
+| fangen       | fängt        | fing         | gefangen     | 捕捉，接住                   |
+| finden       | findet       | fand         | gefunden     | 找到，发现，认为             |
+| fliegen      | fliegt       | flog         | geflogen     | 飞行，乘飞机                 |
+| fleißen      | fleißt       | floss        | geflossen    | 流动，流淌                   |
+| geben        | gibt         | gab          | gegeben      | 给，给予，提供，举办         |
+| genießen     | genießt      | genoss       | genossen     | 享受，享有                   |
+| geschehen    | geschieht    | geschah      | geschehen    | 发生，出现                   |
+| gewinnen     | gewinnt      | gewann       | gewonnen     | 赢得，获得                   |
+| haben        | hat          | hatte        | gehabt       | 有，拥有，具备               |
+| halten       | hält         | hielt        | gehalten     | 抓住，保持，坚守             |
+| hängen[^3]   | hängt        | hing         | gehangen     | 悬挂，附着，悬吊             |
+| hauen        | haut         | haute / hieb | gehauen      | 砍，打，击                   |
+| heben        | hebt         | hob          | gehoben      | 举起，抬起                   |
+| heißen       | heißt        | hieß         | geheißen     | 名叫，意味着                 |
+| helfen       | hilft        | half         | geholfen     | 帮助，生效，有用             |
+| kennen       | kennt        | kannte       | gekannt      | 认识，熟悉，辩认出           |
+| kommen       | kommt        | kam          | gekommen     | 到来，出席，临近             |
+| können       | kann         | konnte       | gekonnt      | 能够，可能，也许             |
+| laden        | ladet/lädt   | lud          | geladen      | 装载，装填                   |
+| lassen       | lässt        | ließ         | gelassen     | 让，使，听任                 |
+| laufen       | läuft        | lief         | gelaufen     | 奔跑，运转                   |
+| leiden       | leidet       | litt         | gelitten     | 受苦，遭受                   |
+| lesen        | liest        | las          | gelesen      | 阅读，朗读                   |
+| leihen       | leiht        | lieh         | geliehen     | 借，租                       |
+| lesen        | liest        | las          | gelesen      | 阅读，朗读                   |
+| liegen       | liegt        | lag          | gelegen      | 躺着，位于                   |
+| mögen        | mag          | mochte       | gemocht      | 喜爱，想要得到               |
+| müssen       | muss         | musste       | gemusst      | 必须，应该                   |
+| nehmen       | nimmt        | nahm         | genommen     | 拿起，选用，收下             |
+| nennen       | nennt        | nannte       | genannt      | 叫做，称为                   |
+| riechen      | riecht       | roch         | gerochen     | 闻，嗅到                     |
+| rufen        | ruft         | rief         | gerufen      | 叫，呼喊，招呼               |
+| scheinen     | scheint      | schien       | geschienen   | 照耀，发光，似乎             |
+| scheißen     | scheißt      | schiss       | geschissen   | 排便                         |
+| schlafen     | schläft      | schlief      | geschlafen   | 睡觉                         |
+| schlagen     | schlägt      | schlug       | geschlagen   | 打，拍，砍，击溃             |
+| schließen    | schließt     | schloss      | geschlossen  | 闭合，观赏，结束，停止开放   |
+| schneiden    | schneidet    | schnitt      | geschnitten  | 切，割，剪                   |
+| schreiben    | schreibt     | schrieb      | geschrieben  | 写字，书写，写作             |
+| schwimmen    | schwimmt     | schwamm      | geschwommen  | 游泳，漂浮                   |
+| sehen        | sieht        | sah          | gesehen      | 看见，亲眼见到，看出，认识到 |
+| sein         | ist          | war          | gewesen      | 是，存在，处于               |
+| singen       | singt        | sang         | gesungen     | 唱歌，演唱                   |
+| sitzen       | sitzt        | saß          | gesessen     | 就座，坐落                   |
+| sollen       | soll         | sollte       | gesollt      | 应该，可以                   |
+| sprechen     | spricht      | sprach       | gesprochen   | 讲话，讨论，谈话             |
+| springen     | springt      | sprang       | gesprungen   | 跳，跳跃                     |
+| stehen       | steht        | stand        | gestanden    | 站，直立，处于               |
+| steigen      | steigt       | stieg        | gestiegen    | 上升，攀登                   |
+| streiten     | streitet     | stritt       | gestritten   | 争论，辩论，斗争             |
+| tragen       | trägt        | trug         | getragen     | 担负，挑起，忍受             |
+| treffen      | trifft       | trat         | getroffen    | 打中，碰到，打击             |
+| treiben      | treibt       | trieb        | getrieben    | 从事，做，驱使，引起         |
+| treten       | tritt        | trat         | getreten     | 踩，踏，踢，踏入             |
+| trinken      | trinkt       | trank        | getrunken    | 喝，饮酒                     |
+| tun          | tut          | tat          | getan        | 做，工作，着手               |
+| unterbrechen | unterbricht  | unterbrach   | unterbrochen | 打断，中断，中止             |
+| verbinden    | verbindet    | verband      | verbunden    | 连接，联合，结合             |
+| vergessen    | vergisst     | vergaß       | vergessen    | 忘记，遗忘                   |
+| vergleichen  | vergleicht   | verglich     | verglichen   | 比较，对照                   |
+| waschen      | wäscht       | wusch        | gewaschen    | 洗涤                         |
+| wenden       | wendet       | wandte       | gewandt      | 转向，转身，转变             |
+| werden       | wird         | wurde        | geworden     | 变成，成为                   |
+| wiegen       | wiegt        | wog          | gewogen      | 称，称量                     |
+| wissen       | weiß         | wusste       | gewusst      | 知道，了解，明白             |
+| wollen       | will         | wollte       | gewollt      | 想，愿意，需要               |
+| ziehen       | zieht        | zog          | gezogen      | 拉，拖，转移，渗入           |
 
 [^3]: hängen 作为及物动词规则变化为 hängt, hängte, gehängt，作为不及物动词规则变化为 hängt, hing, gehangen
