@@ -45,7 +45,7 @@
 |      | m       | f       | n       | Pl.     |
 | :--- | :------ | :------ | :------ | :------ |
 | N.   | welcher | welche  | welches | welche  |
-| G.   | welchem | welcher | welchem | welchen |
+| G.   | welches | welcher | welches | welcher |
 | D.   | welchem | welcher | welchem | welchen |
 | A.   | welchen | welche  | welches | welche  |
 
