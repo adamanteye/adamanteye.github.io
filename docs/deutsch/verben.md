@@ -213,7 +213,6 @@
 | lassen       | lässt        | ließ         | gelassen     | 让，使，听任                 |
 | laufen       | läuft        | lief         | gelaufen     | 奔跑，运转                   |
 | leiden       | leidet       | litt         | gelitten     | 受苦，遭受                   |
-| lesen        | liest        | las          | gelesen      | 阅读，朗读                   |
 | leihen       | leiht        | lieh         | geliehen     | 借，租                       |
 | lesen        | liest        | las          | gelesen      | 阅读，朗读                   |
 | liegen       | liegt        | lag          | gelegen      | 躺着，位于                   |
