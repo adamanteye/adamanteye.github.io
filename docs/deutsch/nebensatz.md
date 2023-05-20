@@ -118,6 +118,32 @@ bis 引导的时间从句表示主句动作延续到从句动作发生为止，�
 >
 > Wir warten, bis er die Huasufgaben gemacht hat.
 
+## 关系从句
+
+1. 关系从句由关系代词引导。关系代词的性和数与它所限定的名词（在主句里）一致，格取决于它在从句中的句法地位。
+1. 关系代词在从句中如果受介词支配，介词位于其前，不可省略。
+
+### Beispiele
+
+> Endlich kommt der Freund, auf den ich zwei Stunden gewartet habe.
+>
+> Der Freund, mit em ich eine Reise in China gemacht habe, kommt aus Bonn.
+
+### 关系代词
+
+被修饰的词为 das, alles, nichts, etwas, einiges, vieles, manches, 中性最高级等，关系代词使用 was.
+
+其他情况的关系代词如下：
+
+| 数   | 性  | N   | G      | D     | A   |
+| ---- | --- | --- | ------ | ----- | --- |
+| 单数 | m   | der | dessen | dem   | den |
+|      | n   | das | dessen | dem   | das |
+|      | f   | die | deren  | der   | die |
+| 复数 |     | die | deren  | denen | die |
+
+注意：deren 与 dessen 不变格，后接形容词时，形容词遵照没有修饰词情形的变格。
+
 ## 参考
 
 [^1]: 新编大学德语 2 Einheit 1
