@@ -1,3 +1,27 @@
+## 时间的表达
+
+### 提问
+
+1. Wann?
+2. Wie lange?
+3. Von wann bis wann?
+4. Seit wann?
+5. Ab wann?
+
+### 回答
+
+1. Im Jahr(e)
+2. Am ...
+3. Im ...
+4. Als ...
+5. Mit ... Jahren / Im Alter von ... Jahren
+6. ... Jahre
+7. ... Tage
+8. Von ... bis ...
+9. Seit ...
+10. Ab ...
+11. Zuerst ..., dann ...
+
 ## 第一将来时
 
 ### 构成
