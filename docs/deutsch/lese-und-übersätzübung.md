@@ -1,4 +1,4 @@
-## Einheit 9
+
 
 !!! quote "阅读与翻译练习"
     Die Ausstellung "Crossing Parallels: German Design 1945-1990" im Kunstmuseum der Tsinghua Universität wird bis Mitte April dauern.
@@ -29,7 +29,6 @@
     > - Brigitte 问他，他是否觉得食堂的饭不好吃。
     > - 王洪亮回答说：“食堂的饭很好吃，只不过我们学校有太多食堂，我不知道该去哪个食堂。”
 
-## Einheit 1
 
 !!! quote "Der kleine Prinz"
     Wenn einer eine Blume liebt, die es nur ein einziges Mal gibt auf allen Millionen und Millionen Sternen, dann genügt es ihm völlig, dass er zu ihnen hinaufschaut, um glücklich zu sein. Er sagt sich: Meine Blume ist da oben, irgendwo… Wenn aber das Schaf die Blume frisst, so sit es für ihn, als wären plötzlich alle Sterne ausgelöscht! Und das soll nicht wichtig sein?
@@ -38,4 +37,7 @@
 
     ---
 
-    
+!!! quote "翻译练习"
+    Als Gregor Samsa eines Morgens aus unruhigen Träumen erwachte, fand er sich in seinem Bett zu einem ungeheueren Ungeziefer verwandelt.
+
+    > 一天早晨，当 Gregor Samsa 从不安的睡梦中醒来时，他发现自己在床上变成了一只巨大的甲虫。
