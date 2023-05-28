@@ -1,5 +1,3 @@
-
-
 这些介词可按照格位分为三种[^1]
 
 [^1]: 新求精德语语法精解与练习 Lektion 12
@@ -75,6 +73,14 @@
 - 支配人称代词，必须后置
 > Er wohnt mir gegenüber
 
+### mit
+
+- 表示使用的工具，手段等
+> Heute reisen viele Leute gern mit dem Flugzeug.
+- 和……一起
+> Ich möchte mit Herrn Hoffmann sprechen.
+- 添加，带有
+
 ## 支配四格
 
 ### durch
@@ -95,6 +101,17 @@
 > Das Auto fährt um die Ecke.
 - 环绕，围绕
 > Wir sitzen um den Tisch.
+
+### für
+
+- 表示目的，为了……
+> Wir lernen für das Studium in Deutschland Deutsch.
+- 表示对象，对……而言
+> Es ist für ihn sehr schwer, Deutsch zu lernen.
+- 表示代表，代替……做某事
+> Da ich keine Zeit habe, muss Herr Li für mich eine Geschäftsreise nach Beijing machen.
+- 表示报酬，等值交换
+> Er hat das moderne Kleid für 100 Euro gekauft.
 
 ## 支配三格与四格
 
