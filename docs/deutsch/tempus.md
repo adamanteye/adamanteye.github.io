@@ -70,6 +70,44 @@
 | ihr         | antwort*etet*  | öffn*etet*  | -etet    |
 | sie, Sie    | antwort*eten*  | öffn*eten*  | -eten    |
 
+## 现在完成时
+
+### 构成
+
+**haben / sein（人称变位形式） +  P.II**
+
+### 规则动词二分词
+
+| Form der Verben | Form des P.II | Infinitiv | P.II    |
+| --------------- | ------------- | --------- | ------- |
+| 普通规则动词    | ge + 词干 + t | machen    | gemacht |
+| 词干以-t, -d, chn, -ffn, -gn 结尾的规则动词 | ge + 词干 + et | öffnen | geöffnet |
+| 以 -ieren 结尾的规则动词 | 词干 + t | studieren | studiert |
+
+### 有前缀的动词的二分词
+
+**不可分动词（前缀不重读）**
+
+这些前缀包括：be-, emp-, ent-, er-, ge-, ver-, zer-, miss- 等
+
+**不加 ge**
+
+> besuchen - besucht
+>
+> verstehen - verstanden
+
+**可分动词（前缀重读）**
+
+这些前缀包括：an-, auf-, aus-, ein-, mit-, nach-, vor-, zu-, zurück- 等
+
+**可能加 ge**
+
+> einladen - eingeladen
+> 
+> aufmachen - aufgemacht
+> 
+> aussortieren - aussortiert
+
 ## 过去完成时
 
 用于表达过去一个动作之前所发生的动作或行为。

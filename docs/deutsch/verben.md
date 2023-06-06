@@ -196,6 +196,7 @@
 | fliegen      | fliegt       | flog         | geflogen     | 飞行，乘飞机                 |
 | fleißen      | fleißt       | floss        | geflossen    | 流动，流淌                   |
 | geben        | gibt         | gab          | gegeben      | 给，给予，提供，举办         |
+| gehen        | geht         | ging         | gegangen     | 走，去，离开                 |
 | genießen     | genießt      | genoss       | genossen     | 享受，享有                   |
 | geschehen    | geschieht    | geschah      | geschehen    | 发生，出现                   |
 | gewinnen     | gewinnt      | gewann       | gewonnen     | 赢得，获得                   |

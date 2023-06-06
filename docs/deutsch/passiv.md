@@ -39,7 +39,7 @@
 
 ### 现在时及过去时
 
-werden（变位）... P.II
+**werden（变位）... P.II**
 
 > Das Brot wird heute gekauft.
 >
@@ -47,7 +47,7 @@ werden（变位）... P.II
 
 ### 现在完成时及过去完成时
 
-sein（变位）... P.II worden
+**sein（变位）... P.II worden**
 
 !!! waring "sein"
     不论该二分词原先使用 sein 还是 haben 作为助动词，过程被动态的构成都使用 sein 作为助动词。
@@ -58,7 +58,7 @@ sein（变位）... P.II worden
 
 ### 第一将来时
 
-werden（变位）... P.II werden
+**werden（变位）... P.II werden**
 
 > Das Brot wird morgen gekauft werden.
 >
@@ -66,7 +66,7 @@ werden（变位）... P.II werden
 
 ### 有情态动词的现在时及过去时
 
-情态动词（变位）... P.II werden
+**情态动词（变位）... P.II werden**
 
 > Das Brot muss heute gekauft werden.
 >
@@ -74,7 +74,7 @@ werden（变位）... P.II werden
 
 ### 有情态动词的现在完成时及过去完成时
 
-haben（变位）... P.II werden 情态动词原形
+**haben（变位）... P.II werden 情态动词原形**
 
 > Das Brot hat gestern gekauft werden müssen.
 >
