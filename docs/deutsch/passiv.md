@@ -10,7 +10,7 @@
 > Die Lehrerin hilft den Studentinnen.
 >
 > Den Studentinnen wird geholfen.
-3. 被动句的行为主体如果是人，用 von 引出；如果是物，用 durch 引出
+3. 被动句的行为主体如果是人，用 von（接三格）引出；如果是物，用 durch（接四格）引出
 > Das Auto wird von dem Arbeiter gewaschen.
 >
 > Unser Leben wird durch das Internet verändert.
@@ -71,6 +71,13 @@
 > Das Brot muss heute gekauft werden.
 >
 > Ich meine, dass das Brot heute gekauft werden muss.
+
+!!! warning "wollen"
+    当主动句改为被动句时，主动句中的情态助动词 wollen 必须转换成 sollen，如：
+
+    > Eine amerikanische Bank will ein Büro in Schanghai eröffnen.
+    >
+    > Ein Büro soll (von einer amerikanischen Bank) in Shanghai eröffnet werden.
 
 ### 有情态动词的现在完成时及过去完成时
 

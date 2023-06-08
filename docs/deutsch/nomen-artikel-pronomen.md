@@ -2,12 +2,55 @@
 
 ### 定冠词
 
-|      | m    | f    | n    | Pl.  |
+|      | m    | n    | f    | Pl.  |
 | :--- | :--- | :--- | :--- | :--- |
-| N.   | der  | die  | das  | die  |
-| G.   | des  | der  | des  | der  |
-| D.   | dem  | der  | dem  | den  |
-| A.   | den  | die  | das  | die  |
+| N.   | der  | das  | die  | die  |
+| G.   | des  | des  | der  | der  |
+| D.   | dem  | dem  | der  | den  |
+| A.   | den  | das  | die  | die  |
+
+### 不定冠词
+
+|      | m     | n     | f     | Pl.  |
+| :--- | :---- | :---- | :---- | :--- |
+| N.   | ein   | ein   | eine  | -    |
+| G.   | eines | eines | einer | -    |
+| D.   | einem | einem | einer | -    |
+| A.   | einen | ein   | eine  | -    |
+
+### 物主冠词
+
+|             |      | m       | n       | f       | Pl.     |
+| :---------- | :--- | :------ | :------ | :------ | :------ |
+| ich         | N    | mein    | mein    | meine   | meine   |
+|             | G    | meines  | meines  | meiner  | meiner  |
+|             | D    | meinem  | meinem  | meiner  | meinen  |
+|             | A    | meinen  | mein    | meine   | meine   |
+| du          | N    | dein    | dein    | deine   | deine   |
+|             | G    | deines  | deines  | deiner  | deiner  |
+|             | D    | deinem  | deinem  | deiner  | deinen  |
+|             | A    | deinen  | dein    | deine   | deine   |
+| er, es, man | N    | sein    | sein    | seine   | seine   |
+|             | G    | seines  | seines  | seiner  | seiner  |
+|             | D    | seinem  | seinem  | seiner  | seinen  |
+|             | A    | seinen  | sein    | seine   | seine   |
+| sie         | N    | ihr     | ihr     | ihre    | ihre    |
+|             | G    | ihres   | ihres   | ihrer   | ihrer   |
+|             | D    | ihrem   | ihrem   | ihrer   | ihren   |
+|             | A    | ihren   | ihr     | ihre    | ihre    |
+| wir         | N    | unser   | unser   | unsere  | unsere  |
+|             | G    | unser   | unser   | unserer | unserer |
+|             | D    | unserem | unserem | unserer | unseren |
+|             | A    | unseren | unser   | unsere  | unsere  |
+| ihr         | N    | euer    | euer    | eure    | eure    |
+|             | G    | euer    | euer    | eurer   | eurer   |
+|             | D    | eurem   | eurem   | eurer   | euren   |
+|             | A    | euren   | euer    | eure    | eure    |
+| sie, Sie    | N    | ihr     | ihr     | ihre    | ihre    |
+|             | G    | ihres   | ihres   | ihrer   | ihrer   |
+|             | D    | ihrem   | ihrem   | ihrer   | ihren   |
+|             | A    | ihren   | ihr     | ihre    | ihre    |
+
 
 ## 名词
 
@@ -33,11 +76,11 @@
 ### 弱变化名词
 
 - 单数
-  - 第二格 -en，以元音结尾 -n
-  - 第三格 -en，以元音结尾 -n
-  - 第四格 -en，以元音结尾 -n
+    - 第二格 -en，以元音结尾 -n
+    - 第三格 -en，以元音结尾 -n
+    - 第四格 -en，以元音结尾 -n
 - 复数
-  - 全部格 -n 或 -en
+    - 全部格 -n 或 -en
 
 ### 阴性名词
 
