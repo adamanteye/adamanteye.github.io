@@ -7,7 +7,7 @@
 ### 构成
 
 - 2 ~ 19：基数词 + 词尾 t
-- 20 以上：基数词 + 词尾 st
+- 20 及以上：基数词 + 词尾 st
 - 不规则：
     - 1: erste
     - 3: dritte
@@ -57,12 +57,12 @@ z.B.
 
 ### 年份
 
-**2000 年及以后**：按照对应数字读写
+**1000-1099, 2000-2099**：用 tausend
 
 1. 2012 zweitausendzwölf
 2. 2000 zweitausend
 
-**1999 年及之前**：先读两位，再读两位
+**其他年份**：用 hundert
 
 1. 1901 neunzehnhunderteins
 2. 1989 neunzehnhundertneunundachtzig
