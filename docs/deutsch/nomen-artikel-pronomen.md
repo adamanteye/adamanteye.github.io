@@ -51,7 +51,6 @@
 |             | D    | ihrem   | ihrem   | ihrer   | ihren   |
 |             | A    | ihren   | ihr     | ihre    | ihre    |
 
-
 ## 名词
 
 德语名词可分为三类[^1]：
@@ -88,5 +87,21 @@
     - 均不变格
 - 复数
     - 第三格 -n
+
+## 代词
+
+### 人称代词
+
+| N.   | G.   | D.   | A.   |
+| :--- | :--- | :--- | :--- |
+| ich  | mein | mir  | mich |
+| du   | dein | dir  | dich |
+| er   | sein | ihm  | ihn  |
+| sie  | ihr  | ihr  | sie  |
+| es   | sein | ihm  | es   |
+| wir  | unser| uns  | uns  |
+| ihr  | euer | euch | euch |
+| sie  | ihr  | ihnen| sie  |
+| Sie  | Ihr  | Ihnen| Sie  |
 
 ## 参考
