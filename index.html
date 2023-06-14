@@ -96,455 +96,100 @@
 <main class="page-container">
 
     
-        $temp-title-fs = hexo-config('home_banner.text_style.title_size')
-$title-font-size = $temp-title-fs ? convert($temp-title-fs) : 2.8rem
-$temp-subtitle-fs = hexo-config('home_banner.text_style.subtitle_size')
-$subtitle-font-size = $temp-subtitle-fs ? convert($temp-subtitle-fs) : 1.4rem
-$temp-line-height = hexo-config('style.first_screen.line_height')
-$line-height = $temp-line-height ? $temp-line-height : 1.2
-$home-banner-icon-size = 1.6rem
+        
 
-@import '../../common/variables'
+<div class="home-banner-container flex-center">
+    <div class="content flex-center">
+        <div class="description fade-in-down-animation" >
+          长颈鹿是无情的生物 
+          
+            <p><i id="subtitle"></i></p>
+          
+        </div>
+        
+    </div>
+</div>
 
-.home-banner-background
-  position fixed
-  top 0
-  left 0
-  width 100vw
-  height 100vh
-  background var(--home-banner-img) center center / cover no-repeat
-  background-size cover
-  will-change transform
-  box-sizing border-box
-  transform scale(1.1)
 
-.home-banner-container
-  font-family 'Optima Bold', sans-serif
-  position relative
-  box-sizing border-box
-  width 100%
-  min-height 100vh
-  overflow hidden
-  background var(--home-banner-img) center center / cover no-repeat
-  background-size cover
-  will-change transform
-
-  .content
-    position relative
-    box-sizing border-box
-    min-height 90vh
-
-    .description
-      width 100vw
-      font-weight bold
-      font-size $title-font-size
-      line-height $line-height
-      text-align center
-      color var(--home-banner-text-color)
-
-      p
-        margin 0
-        opacity 0.9
-        font-family 'Optima', sans-serif
-
-        i
-          font-size $subtitle-font-size
-          font-style normal
-
-        span
-          font-size: $subtitle-font-size * 1.05
-
-      +redefine-tablet()
-        font-size: $title-font-size * 0.9
-
-    .social-contacts
-      position absolute
-      bottom 60px
-      font-size $home-banner-icon-size
-      text-align center
-      backdrop-filter blur(10px)
-      -webkit-backdrop-filter blur(10px)
-      box-shadow 0 0 10px 0 rgba(0, 0, 0, 0.5)
-      padding 4px 24px
-      border-radius $redefine-border-radius-medium
-      box-shadow inset 0 0 2000px var(--home-banner-icons-container-background-color)
-      border 1.5px solid var(--home-banner-icons-container-border-color)
-
-      +redefine-tablet()
-        font-size: $home-banner-icon-size * 0.9
-
-      .social-contact-item
-        margin-right 20px
-        cursor pointer
-        line-height 2
-        color #FFF
-
-        &:last-child
-          margin-right 0
 
     
 
     <div class="main-content-container">
 
         <div class="main-content-header">
-            $logo-title-font-size = 2rem
-$desktop-search-icon-font-size = 1.5rem
-$navbar-bar-line-height = 2.5px
-$logo-image-box-width = 46px
+            <header class="navbar-container">
+    
+    <div class="navbar-content has-home-banner">
+        <div class="left">
+            
+            <a class="logo-title" href="/">
+                <h1>
+                adamanteye&#39;s blog
+                </h1>
+            </a>
+        </div>
+
+        <div class="right">
+            <!-- PC -->
+            <div class="desktop">
+                <ul class="navbar-list">
+                    
+                        
+                            <li class="navbar-item">
+                                <!-- Menu -->
+                                <a class="active" 
+                                    href="/"  >
+                                    
+                                        
+                                            <i class="fa-regular fa-house"></i>
+                                        
+                                        首页
+                                    
+                                </a>
+                                <!-- Submenu -->
+                                
+                            </li>
+                    
+                    
+                </ul>
+            </div>
+            <!-- Mobile -->
+            <div class="mobile">
+                
+                <div class="icon-item navbar-bar">
+                    <div class="navbar-bar-middle"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Mobile drawer -->
+    <div class="navbar-drawer">
+        <ul class="drawer-navbar-list">
+            
+                
+                    <li class="drawer-navbar-item flex-center">
+                        <a class="active" 
+                        href="/"  >
+                             
+                                
+                                    <i class="fa-regular fa-house"></i>
+                                
+                                首页
+                            
+                        </a>
+                    </li>
+                    <!-- Submenu -->
+                    
+            
+
+        </ul>
+    </div>
+
+    <div class="window-mask"></div>
+
+</header>
 
-@import '../../common/variables'
-
-.navbar-container
-  font-family 'Optima Medium', sans-serif
-  width 100%
-  height 100%
-  box-sizing border-box
-  display flex
-  align-items center
-  justify-content center
-  background $nav-color-bg
-  -webkit-backdrop-filter blur(10px)
-  backdrop-filter blur(10px)
-  padding-top $scroll-progress-bar-height
-  hover-style(
-    false,
-    0,
-    0
-  )
-
-  .navbar-content
-    position relative
-    height 100%
-    width $main-content-width
-    max-width $content-max-width
-    display flex
-    flex-direction row
-    justify-content space-between
-    align-items center
-    z-index $z-index-5
-
-    &.has-home-banner
-      max-width: $content-max-width * 1.2
-
-    +redefine-tablet()
-      width $main-content-width-tablet
-
-    +redefine-mobile()
-      width $main-content-width-mobile
-
-    .left
-      display flex
-      align-items center
-      transition-t('transform', '0', '0.2', 'linear')
-
-      .navbar-shrink &
-        transform scale(0.72)
-        transform-origin left
-
-      if (hexo-config('defaults.logo') && hexo-config('defaults.logo') != '')
-        .logo-image
-          width $logo-image-box-width
-          height $logo-image-box-width
-          margin-right 8px
-
-          +redefine-tablet()
-            width: $logo-image-box-width * 0.9
-            height: $logo-image-box-width * 0.9
-
-          +redefine-mobile()
-            width: $logo-image-box-width * 0.8
-            height: $logo-image-box-width * 0.8
-
-          img
-            border-radius 6px
-            width 100%
-
-      .logo-title
-        font-size $logo-title-font-size
-        font-family 'Optima Bold', sans-serif
-        // letter-spacing 1px
-        line-height 1
-        color var(--first-text-color)
-
-        h1
-          margin 0
-          font-size $logo-title-font-size
-          font-family 'Optima Bold', sans-serif
-          // letter-spacing 1px
-          line-height 1
-          color var(--first-text-color)
-
-          +redefine-tablet()
-            font-size: $logo-title-font-size * 0.9
-
-          +redefine-mobile()
-            font-size: $logo-title-font-size * 0.8
-
-        +redefine-tablet()
-          font-size: $logo-title-font-size * 0.9
-
-        +redefine-mobile()
-          font-size: $logo-title-font-size * 0.8
-
-    .right
-      .desktop
-        .navbar-list
-          display flex
-          align-items center
-
-          +redefine-tablet()
-            display none
-
-          .navbar-item
-            float left
-            // padding 5px
-            position relative
-            margin-left 30px
-            font-size 1rem
-            cursor pointer
-            color var(--default-text-color)
-
-            a
-              display block
-              padding 5px
-
-            &:first-child
-              margin-left 0
-
-            a .fa-chevron-down
-              transform rotate(0deg)
-              transition transform 0.3s ease
-
-            &:hover a .fa-chevron-down
-              transform rotate(180deg)
-
-            &:hover .has-dropdown
-              &::after
-                display none !important
-
-            &:hover a, .active
-              &::after
-                content ''
-                position absolute
-                bottom -5px
-                left 50%
-                width 100%
-                height 2px
-                transform translateX(-50%)
-                border-radius $redefine-border-radius-large
-                background var(--primary-color)
-                transition-t('transform, bottom', '0, 0', '0.2, 0.2', 'linear, linear')
-
-                .navbar-shrink &
-                  bottom -($navbar-shrink-height / 2 - 17)
-
-            &.search
-              font-size $desktop-search-icon-font-size
-              margin-left 26px
-
-              i
-                color var(--default-text-color)
-
-            .sub-menu
-              position absolute
-              right auto
-              left 50%
-              -webkit-transform translate(-50%, 0)
-              -o-transform translate(-50%, 0)
-              transform translate(-50%, 0)
-              margin-top 0px
-              width auto
-              text-align center
-              list-style none
-              padding 0 10px
-              border-radius $redefine-border-radius-large
-              // visibility hidden
-              max-height 0px
-              overflow hidden
-              transition-t('all', '0', '0.2', 'linear')
-
-              li a
-                white-space nowrap
-                color var(--default-text-color)
-                font-size 1rem
-                padding 3px 15px
-                display block
-                text-align center
-                border-radius 8px
-                transition-t('all', '0', '0.2', 'linear')
-
-                &:hover
-                  color var(--primary-color)
-                  background-color var(--third-background-color)
-
-        .navbar-list .navbar-item:hover .sub-menu
-          // visibility visible
-          max-height 500px
-          transition-t('all', '0', '0.2', 'ease')
-          redefine-container(
-            false,
-            0,
-            0,
-            10px,
-            5px
-          )
-
-      .mobile
-        display flex
-        justify-content space-between
-        align-items center
-
-        .icon-item
-          display none
-          position relative
-          cursor pointer
-          font-size 18px
-          margin-left 12px
-          width 20px
-          height 20px
-          color var(--default-text-color)
-
-          i
-            color var(--default-text-color)
-
-          &:first-child
-            margin-left 0
-
-          +redefine-tablet()
-            display flex
-            justify-content center
-            align-items center
-
-        .navbar-bar
-          .navbar-bar-middle
-            width 18px
-            height $navbar-bar-line-height
-            position relative
-            background var(--default-text-color)
-
-            .navbar-drawer-show &
-              background transparent
-
-            &::before, &::after
-              content ''
-              position absolute
-              left 0
-              width 100%
-              height $navbar-bar-line-height
-              background var(--default-text-color)
-              transition-t('transform', '0', '0.38', 'ease')
-
-            &::before
-              top -6px
-
-              .navbar-drawer-show &
-                transform translateY(6px) rotate(45deg)
-
-            &::after
-              bottom -6px
-
-              .navbar-drawer-show &
-                transform translateY(-6px) rotate(-45deg)
-
-  .navbar-drawer
-    width 100%
-    padding $navbar-height 0 20px 0
-    position absolute
-    top 0
-    left 0
-    transform scaleY(0)
-    transform-origin top
-    z-index $z-index-2
-    background var(--background-color)
-    transition-t('transform', '0', '0.38', 'ease')
-
-    .navbar-drawer-show &
-      transform scaleY(1)
-
-    .drawer-navbar-list
-      display flex
-      flex-direction column
-      justify-content flex-start
-      align-items center
-
-      .drawer-navbar-item
-        font-family 'Optima Bold', sans-serif
-        font-size 1rem
-        margin 6px 0
-        height 32px
-
-        a
-          padding 6px 20px
-          border-radius 20px
-          color var(--default-text-color)
-
-          &:hover
-            color var(--second-text-color)
-            border 1px solid var(--default-text-color)
-
-          &.active
-            border 1px solid var(--default-text-color)
-            color var(--second-text-color)
-
-        .has-dropdown
-          font-family 'Optima Bold', sans-serif
-
-        a .fa-chevron-down
-          transform rotate(0deg)
-          transition transform 0.3s ease
-
-        &:hover a .fa-chevron-down
-          transform rotate(180deg)
-
-        &:hover .has-dropdown
-          &::after
-            display none !important
-
-      .dropdown-item
-        font-size 1rem
-        margin 6px 0
-        height 16px
-
-        a
-          padding 6px 20px
-          border-radius 20px
-          color var(--default-text-color)
-
-          &:hover
-            color var(--second-text-color)
-            border 1px solid var(--default-text-color)
-
-          &.active
-            border 1px solid var(--default-text-color)
-            color var(--second-text-color)
-
-      .sub-menu
-        position relative
-        margin-top 8px
-        width 100%
-        text-align center
-        list-style none
-        padding 0 10px
-        border-radius $redefine-border-radius-large
-        // float left
-
-  .window-mask
-    position absolute
-    top 0
-    width 100%
-    height 100vh
-    background rgba(0, 0, 0, 0.4)
-    z-index $z-index-1
-    visibility hidden
-    opacity 0
-    transition-t('transform, opacity', '0, 0', '0.38, 0.38', 'ease, ease')
-
-    .navbar-drawer-show &
-      visibility visible
-      opacity 1
-
-.navbar-drawer-show
-  overflow hidden
 
         </div>
 
@@ -648,225 +293,68 @@ $logo-image-box-width = 46px
         </div>
 
         <div class="main-content-footer">
-            @import '../../common/variables'
-
-.footer
-  margin-top 20px !important
-  padding-top 20px !important
-  height auto
-  min-height 100px
-  font-size 1rem
-  color var(--third-text-color)
-  background-color alpha($primary-color, 0.15)
-  border-radius 0 !important
-  redefine-container(
-    0,
-    0,
-    0,
-    0,
-    false
-  )
-  position relative
-
-  span
-    vertical-align baseline !important
-
-  .odometer
-    vertical-align baseline !important
-
-  a
-    color var(--third-text-color)
-
-    &:hover
-      color var(--primary-color)
-
-  .theme-info
-    text-align left
-    position absolute
-    left 20px
-    top 45%
-    transform translateY(-50%)
-
-    .powered-by-container
-      margin-bottom 10px
-      font-size 0.8rem
-
-      a
-        font-size 1rem
-
-      svg
-        position relative
-        top 2px
-
-    .theme-version-container
-      font-size 0.8rem
-
-      a
-        font-size 1rem
-
-    +redefine-tablet()
-      position relative
-      text-align center
-      top 0 !important
-      left 0 !important
-      transform none !important
-
-    +redefine-mobile()
-      position relative
-      text-align center
-      top 0 !important
-      left 0 !important
-      transform none !important
-
-  .copyright-info
-    text-align center
-
-  .website-count
-    text-align right
-    position absolute
-    right 20px
-    top 45%
-    transform translateY(-50%)
-
-    .busuanzi_container_site_pv
-      display block !important
-      font-size 0.8rem
-
-    .busuanzi_value_site_uv
-      font-size 1rem !important
-
-    .busuanzi_container_site_uv
-      display block !important
-      font-size 0.8rem
-
-    .busuanzi_value_site_pv
-      font-size 1rem !important
-
-    +redefine-tablet()
-      position relative
-      text-align center
-      top 0 !important
-      right 0 !important
-      transform none !important
-
-      .busuanzi_container_site_pv
-        display inline-block !important
-
-      .busuanzi_container_site_uv
-        display inline-block !important
-
-    +redefine-mobile()
-      position relative
-      text-align center
-      top 0 !important
-      right 0 !important
-      transform none !important
-
-      .busuanzi_container_site_pv
-        display inline-block !important
-
-      .busuanzi_container_site_uv
-        display inline-block !important
-
-  .info-container
-    padding-bottom 10px
-    text-align center
-    margin-top 10px
-
-  .info-item
-    margin 5px 0
-
-  .icon-animate
-    animation icon-animate 1.2s ease-in-out infinite
-
-  .odometer.odometer-auto-theme, .odometer.odometer-theme-default
-    display inline-block
-    vertical-align middle
-    *vertical-align auto
-    *zoom 1
-    *display inline
-    position relative
-
-  .odometer.odometer-auto-theme .odometer-digit, .odometer.odometer-theme-default .odometer-digit
-    display inline-block
-    vertical-align middle
-    *vertical-align auto
-    *zoom 1
-    *display inline
-    position relative
-
-  .odometer.odometer-auto-theme .odometer-digit .odometer-digit-spacer, .odometer.odometer-theme-default .odometer-digit .odometer-digit-spacer
-    display inline-block
-    vertical-align middle
-    *vertical-align auto
-    *zoom 1
-    *display inline
-    visibility hidden
-
-  .odometer.odometer-auto-theme .odometer-digit .odometer-digit-inner, .odometer.odometer-theme-default .odometer-digit .odometer-digit-inner
-    text-align left
-    display block
-    position absolute
-    top 0
-    left 0
-    right 0
-    bottom 0
-    overflow hidden
-
-  .odometer.odometer-auto-theme .odometer-digit .odometer-ribbon, .odometer.odometer-theme-default .odometer-digit .odometer-ribbon
-    display block
-
-  .odometer.odometer-auto-theme .odometer-digit .odometer-ribbon-inner, .odometer.odometer-theme-default .odometer-digit .odometer-ribbon-inner
-    display block
-    -webkit-backface-visibility hidden
-
-  .odometer.odometer-auto-theme .odometer-digit .odometer-value, .odometer.odometer-theme-default .odometer-digit .odometer-value
-    display block
-    -webkit-transform translateZ(0)
-
-  .odometer.odometer-auto-theme .odometer-digit .odometer-value.odometer-last-value, .odometer.odometer-theme-default .odometer-digit .odometer-value.odometer-last-value
-    position absolute
-
-  .odometer.odometer-auto-theme.odometer-animating-up .odometer-ribbon-inner, .odometer.odometer-theme-default.odometer-animating-up .odometer-ribbon-inner
-    -webkit-transition -webkit-transform 999ms
-    -moz-transition -moz-transform 999ms
-    -ms-transition -ms-transform 999ms
-    -o-transition -o-transform 999ms
-    transition transform 999ms
-
-  .odometer.odometer-auto-theme.odometer-animating-up.odometer-animating .odometer-ribbon-inner, .odometer.odometer-theme-default.odometer-animating-up.odometer-animating .odometer-ribbon-inner
-    -webkit-transform translateY(-100%)
-    -moz-transform translateY(-100%)
-    -ms-transform translateY(-100%)
-    -o-transform translateY(-100%)
-    transform translateY(-100%)
-
-  .odometer.odometer-auto-theme.odometer-animating-down .odometer-ribbon-inner, .odometer.odometer-theme-default.odometer-animating-down .odometer-ribbon-inner
-    -webkit-transform translateY(-100%)
-    -moz-transform translateY(-100%)
-    -ms-transform translateY(-100%)
-    -o-transform translateY(-100%)
-    transform translateY(-100%)
-
-  .odometer.odometer-auto-theme.odometer-animating-down.odometer-animating .odometer-ribbon-inner, .odometer.odometer-theme-default.odometer-animating-down.odometer-animating .odometer-ribbon-inner
-    -webkit-transition -webkit-transform 999ms
-    -moz-transition -moz-transform 999ms
-    -ms-transition -ms-transform 999ms
-    -o-transition -o-transform 999ms
-    transition transform 999ms
-    -webkit-transform translateY(0)
-    -moz-transform translateY(0)
-    -ms-transform translateY(0)
-    -o-transform translateY(0)
-    transform translateY(0)
-
-  .odometer.odometer-auto-theme, .odometer.odometer-theme-default
-    font-family 'Helvetica Neue', sans-serif
-    line-height 1.1em
-
-  .odometer.odometer-auto-theme .odometer-value, .odometer.odometer-theme-default .odometer-value
-    text-align center
-
+            <footer class="footer">
+    <div class="info-container">
+        <div class="copyright-info">
+            &copy;
+            
+              <span>2022</span>
+              -
+            
+            2023&nbsp;&nbsp;<i class="fa-solid fa-heart fa-beat" style="--fa-animation-duration: 0.5s; color: #f54545"></i>&nbsp;&nbsp;<a href="/">adamanteye</a>
+        </div>
+        
+            <script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+            <div class="website-count info-item">
+                
+                    <span id="busuanzi_container_site_uv" class="busuanzi_container_site_uv">
+                        访问人数&nbsp;<span id="busuanzi_value_site_uv" class="busuanzi_value_site_uv"></span>
+                    </span>
+                
+                
+                    <span id="busuanzi_container_site_pv" class="busuanzi_container_site_pv">
+                        总访问量&nbsp;<span id="busuanzi_value_site_pv" class="busuanzi_value_site_pv"></span>
+                    </span>
+                
+            </div>
+        
+        <div class="theme-info info-item">
+            <span class="powered-by-container">由 <?xml version="1.0" encoding="utf-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1rem" height="1rem" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve"><path fill="#0E83CD" d="M256.4,25.8l-200,115.5L56,371.5l199.6,114.7l200-115.5l0.4-230.2L256.4,25.8z M349,354.6l-18.4,10.7l-18.6-11V275H200v79.6l-18.4,10.7l-18.6-11v-197l18.5-10.6l18.5,10.8V237h112v-79.6l18.5-10.6l18.5,10.8V354.6z"/></svg><a target="_blank" href="https://hexo.io">Hexo</a> 驱动</span>
+                <br>
+            <span class="theme-version-container">主题&nbsp;<a class="theme-version" target="_blank" href="https://github.com/EvanNotFound/hexo-theme-redefine">Redefine v2.1.5</a>
+        </div>
+        
+        
+        
+            <div id="start_div" style="display:none">
+                2022/8/17 11:45:14
+            </div>
+            <div>
+                博客已运行 <span class="odometer" id="runtime_days" ></span> 天 <span class="odometer" id="runtime_hours"></span> 小时 <span class="odometer" id="runtime_minutes"></span> 分钟 <span class="odometer" id="runtime_seconds"></span> 秒
+            </div>
+        
+        
+        
+            <script async data-pjax>
+                try {
+                    function odometer_init() {
+                    const elements = document.querySelectorAll('.odometer');
+                    elements.forEach(el => {
+                        new Odometer({
+                            el,
+                            format: '( ddd).dd',
+                            duration: 200
+                        });
+                    });
+                    }
+                    odometer_init();
+                } catch (error) {}
+            </script>
+        
+        
+        
+    </div>  
+</footer>
         </div>
     </div>
 
